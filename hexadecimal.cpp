@@ -1,5 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
+void get(){
+    cout<<"manish";
+}
 int main()
 {
     string n;
